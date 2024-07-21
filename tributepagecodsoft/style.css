@@ -1,0 +1,87 @@
+
+
+body {
+    background-color: #0d0804;
+    margin: 20%;
+}
+
+
+
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px orange;
+    font-size: 7vh;
+    color: antiquewhite;
+}
+
+
+
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+img {
+    max-width: 50%;
+   
+    display: block;
+    margin: 0 auto;
+    border-radius: 40%;
+    background: transparent;
+    
+}
+
+
+
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: white;
+}
+
+
+
+
+div#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px orange;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+
+
+
+h1.title-APJ {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+
+
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: #7b4d28;
+}
+small{
+    color: rgb(216, 74, 22);
+}
+#footer{
+    color: coral;
+    font-size: 20px;
+
+
+}
